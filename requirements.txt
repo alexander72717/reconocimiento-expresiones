@@ -1,0 +1,8 @@
+# Dependencias directas del proyecto (Python 3.11, 64 bits)
+deepface==0.0.101
+tensorflow==2.20.0
+tf-keras==2.20.1
+opencv-python==4.10.0.84
+numpy==2.4.6
+hsemotion-onnx==0.3.1
+onnxruntime==1.31.0
